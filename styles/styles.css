@@ -1,0 +1,43 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Russo+One&family=Seymour+One&display=swap');
+
+
+.titulo1{
+    background-color: aquamarine;
+    font-size: 2rem;
+    color: black;
+    justify-content: center;
+    font-family: "Seymour One", sans-serif;    
+}
+.titulo2{
+    font-family: "Caveat", cursive;
+    justify-content: center;
+}
+.titulo4{
+    font-family: "Caveat", cursive;
+    justify-content: center;
+}
+.titulo3{
+    font-family: "Russo One", sans-serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: transparent;
+    color: grey;
+    font-family: "Russo One", sans-serif;
+}
+button:hover{
+    background-color: black;
+}
+body{
+    background: rgb(95,167,25);
+    background: linear-gradient(90deg, rgba(95,167,25,1) 2%, rgba(7,36,0,1) 100%, rgba(145,137,56,1) 100%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
